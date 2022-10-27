@@ -1,4 +1,4 @@
-// Exercise 1a, C Primer Plus
+// Exercise 1a, Chapter 8, C Primer Plus
 //
 // Device a program that counts the number
 // number of characters in its input up to
